@@ -1,4 +1,4 @@
-# Python MySQL Project: Dead Town - Zombie Survival
+# Python MySQL Project
 
 ## Description
 
